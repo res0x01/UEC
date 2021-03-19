@@ -28,4 +28,4 @@ jobs:
           cat ./CLUBS/others.md >> README.md
           cat ./base-file-tail.md >> README.md
           cat ./README.md
-          git commit -a -m "update README.md"
+
