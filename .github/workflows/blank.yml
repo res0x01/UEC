@@ -21,6 +21,7 @@ jobs:
       - name: Run setup script
         run: |
           ls -F -G -a -l -c -u
+          tree -a
           cat ./base-file-head.md > README.md
           cat ./OFFICIAL/twitter.md >> README.md
           cat ./OFFICIAL/links.md >> README.md
