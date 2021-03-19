@@ -17,14 +17,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run setup script
         run: |
-          cat ./base-file-head.md > README.md
-          cat ./OFFICIAL/twitter.md >> README.md
-          cat ./OFFICIAL/links.md >> README.md
-          cat ./OFFICIAL/announcements.md >> README.md
-          cat ./OFFICIAL/others.md >> README.md
-          cat ./CLUBS/head.md >> README.md
-          cat ./CLUBS/announcements.md >> README.md
-          cat ./CLUBS/others.md >> README.md
+          ./setup.sh
           git config --global user.email 80387370+res0x01@users.noreply.github.com
           git config --global user.name res0x01
           git commit -a -m "update README.md"
