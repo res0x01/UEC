@@ -25,5 +25,8 @@ jobs:
           cat ./CLUBS/head.md >> README.md
           cat ./CLUBS/announcements.md >> README.md
           cat ./CLUBS/others.md >> README.md
+          git config --global user.email 80387370+res0x01@users.noreply.github.com
+          git config --global user.name res0x01
+          git commit -a -m "update README.md"
+          git push
           cat ./README.md
-          git status
