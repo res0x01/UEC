@@ -17,7 +17,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run setup script
         run: |
-          tree -a
           cat ./base-file-head.md > README.md
           cat ./OFFICIAL/twitter.md >> README.md
           cat ./OFFICIAL/links.md >> README.md
@@ -26,6 +25,5 @@ jobs:
           cat ./CLUBS/head.md >> README.md
           cat ./CLUBS/announcements.md >> README.md
           cat ./CLUBS/others.md >> README.md
-          cat ./base-file-tail.md >> README.md
           cat ./README.md
-
+          git status
