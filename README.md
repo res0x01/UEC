@@ -15,6 +15,7 @@
 | 電気通信大学 学生何でも相談支援室	| @uec_soudan |
 | 電気通信大学 障害学生支援室	| @UECSpecialNeeds |
 | 電気通信大学 学生支援センター	| @uecgakusei |
+
 出典:  
 電気通信大学 新入生歓迎実行委員会 > 電通大公式Twitter  
 http://www.shinkan.gakuyukai.uec.ac.jp/newcomer/course.html
