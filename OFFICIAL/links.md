@@ -15,3 +15,7 @@
 > http://kyoumu.office.uec.ac.jp/timet/A1.pdf
 
 ---
+
+> ### 電気通信大学第２外国語教室
+> http://www.2gai.bunka.uec.ac.jp
+> - 4月8日でzoomでガイダンス
