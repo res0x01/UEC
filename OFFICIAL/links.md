@@ -11,3 +11,11 @@
 
 ---    
       
+> ### 2021(令和3)年度  情報理工学域授業時間割  昼間コース 1年  前学期  第1学期
+> http://kyoumu.office.uec.ac.jp/timet/A1.pdf
+
+---
+
+> ### 電気通信大学第２外国語教室
+> http://www.2gai.bunka.uec.ac.jp
+> - 4月8日でzoomでガイダンス
